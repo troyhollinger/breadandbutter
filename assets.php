@@ -1,0 +1,9 @@
+<audio id="track1" autoplay="autoplay" controls="controls"><source src="audio/johhny-appleseed-song.mp3" type="audio/mpeg"><p>Your browser does not support audio</p></audio>
+<audio id="track2" autoplay="autoplay" controls="controls"><source src="audio/aint-no-grave.mp3" type="audio/mpeg"><p>Your browser does not support audio</p></audio>
+<audio id="track3" autoplay="autoplay" controls="controls"><source src="audio/in-the-highways.mp3" type="audio/mpeg"><p>Your browser does not support audio</p></audio>
+<audio id="track4" autoplay="autoplay" controls="controls"><source src="audio/lily-of-the-valley.mp3" type="audio/mpeg"><p>Your browser does not support audio</p></audio>
+<audio id="track5" autoplay="autoplay" controls="controls"><source src="audio/to-god-be-the-glory.mp3" type="audio/mpeg"><p>Your browser does not support audio</p></audio>
+<audio id="track6" autoplay="autoplay" controls="controls"><source src="audio/how-great-thou-art.mp3" type="audio/mpeg"><p>Your browser does not support audio</p></audio>
+<audio id="track7" autoplay="autoplay" controls="controls"><source src="audio/sunbeam.mp3" type="audio/mpeg"><p>Your browser does not support audio</p></audio>
+<audio id="track8" autoplay="autoplay" controls="controls"><source src="audio/id-rather-have-jesus.mp3" type="audio/mpeg"><p>Your browser does not support audio</p></audio>
+<audio id="track9" autoplay="autoplay" controls="controls"><source src="audio/turn-your-eyes-upon-jesus.mp3" type="audio/mpeg"><p>Your browser does not support audio</p></audio>
